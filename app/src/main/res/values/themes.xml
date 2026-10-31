@@ -1,9 +1,0 @@
-<resources>
-    <color name="night">#FF0D0F22</color>
-    <color name="ic_bg">#FF1C2140</color>
-    <style name="LumiTheme" parent="android:Theme.Material.NoActionBar.Fullscreen">
-        <item name="android:windowBackground">@color/night</item>
-        <item name="android:statusBarColor">@color/night</item>
-        <item name="android:navigationBarColor">@color/night</item>
-    </style>
-</resources>
